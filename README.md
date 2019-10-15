@@ -10,4 +10,4 @@ Once there read the questions and answer all 10.
 After you click the submit button it will compare your anwers and display a modal of your character's name and a gif.
 
 
-**Link to Heroku deployment** 
+**https://serene-ocean-18756.herokuapp.com/** 
