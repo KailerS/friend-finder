@@ -25,6 +25,19 @@ $("#submit").on("click", function (event) {
             console.log(data);
             $(".modal-body").append(`<h1>${data.name}`);
             $(".modal-body").append(`<img src=${data.photo}>`);
-        }
-    })
-})
+        };        
+        $("#name").val("");
+        $("#image").val("");
+        $("#q1").val("");
+        $("#q2").val("");
+        $("#q3").val("");
+        $("#q4").val("");
+        $("#q5").val("");
+        $("#q6").val("");
+        $("#q7").val("");
+        $("#q8").val("");
+        $("#q9").val("");
+        $("#q10").val("");
+
+    });
+});
