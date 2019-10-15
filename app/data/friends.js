@@ -1,3 +1,3 @@
-var friendArr = [];
+var characters = [];
 
-module.exports = friendArr;
+module.exports = characters;

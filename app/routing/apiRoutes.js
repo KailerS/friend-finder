@@ -1,1 +1,1 @@
-var friendArr = require("../data/friends");
+var characters = require("../data/friends");
